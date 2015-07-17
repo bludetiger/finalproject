@@ -78,7 +78,10 @@ h2 {
   display: block;
   text-align: center;
   font-size: 18px;
-  font-family: "Lora";
+}
+
+#gmail {
+    font-family: "Lora";
 }
 
 p {
